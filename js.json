@@ -2,7 +2,7 @@
     {
       "id": 1,
       "title": " 17 Camels and 3 Sons ",
-      "discription": "<p id = 'text'>Long ago, there lived an old man with his three sons in a deserted village, located in the vicinity of a desert. He had 17 camels, and they were the main source of his income. He used to rent out camels as a means<span class = 'dot'>....</span><span id = 'hideText' class = ''>of shipping in the deseret. One day, he passed away. He had left a will, leaving his assets for his three sons.</span></p>"
+      "discription": "<p id = 'mainText'>Long ago, there lived an old man with his three sons in a deserted village, located in the vicinity of a desert. He had 17 camels, and they were the main source of his income. He used to rent out camels as a means<span class = 'dot'>....</span><span class='moreText' id = 'hideText' class = ''>of shipping in the deseret. One day, he passed away. He had left a will, leaving his assets for his three sons.</span></p>"
     },
     {
       "id": 1,
