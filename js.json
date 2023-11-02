@@ -2,16 +2,16 @@
     {
       "id": 1,
       "title": " 17 Camels and 3 Sons ",
-      "discription": "<p class = 'text'>Long ago, there lived an old man with his three sons in a deserted village, located in the vicinity of a desert. He had 17 camels, and they were the main source of his income. He used to rent out camels as a means....<span id = 'hideText'>of shipping in the deseret. One day, he passed away. He had left a will, leaving his assets for his three sons.</span></p>"
+      "discription": "<p id = 'text'>Long ago, there lived an old man with his three sons in a deserted village, located in the vicinity of a desert. He had 17 camels, and they were the main source of his income. He used to rent out camels as a means....<span id = 'hideText'>of shipping in the deseret. One day, he passed away. He had left a will, leaving his assets for his three sons.</span></p>"
     },
     {
       "id": 1,
       "title": "A Merchant and his Donkey  ",
-      "discription": "<p class = 'text'> One beautiful spring mrning, a merchant loaded his donkey with bags of salt to go to the market, in order to sell were walking alon together....<span id = 'hideText'> They had not walked far when they reached a river on the way. </span></p>"
+      "discription": "<p id = 'text'> One beautiful spring mrning, a merchant loaded his donkey with bags of salt to go to the market, in order to sell were walking alon together....<span id = 'hideText'> They had not walked far when they reached a river on the way. </span></p>"
     },
     {
       "id": 1,
       "title": "Change Yourself and not The World ",
-      "discription": "<p class = 'text'>Long ago, people lived happily under the rule of a king. The people of the kingdom were very happy as they led a very prosperous life with an abundance of wealth and no misfortunes.....<br/><span id = 'hideText'>Once, the king decided to go visiting places of historical importance and pilgrim centers at distant places. He decided to travel by fot to interact with his people. People of distant places were very happy to have a conversation with their king. They were proud that their king had a king heart.</span></p>"
+      "discription": "<p id = 'text'>Long ago, people lived happily under the rule of a king. The people of the kingdom were very happy as they led a very prosperous life with an abundance of wealth and no misfortunes.....<br/><span id = 'hideText'>Once, the king decided to go visiting places of historical importance and pilgrim centers at distant places. He decided to travel by fot to interact with his people. People of distant places were very happy to have a conversation with their king. They were proud that their king had a king heart.</span></p>"
     }
   ]
